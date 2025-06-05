@@ -14,23 +14,3 @@ h1 {
     border-style: solid;
     border-color: black;
 }
-
-.gcse-search input[type="text"] {
-    width: 100%;
-    padding: 10px;
-    border: none;
-    border-radius: 10px;
-    background: linear-gradient(45deg, #00F2FF, #FF007F);
-    color: white;
-    font-size: 16px;
-    outline: none;
-    transition: 0.3s;
-}
-
-.gcse-search input[type="text"]::placeholder {
-    color: rgba(255, 255, 255, 0.7);
-}
-
-.gcse-search input[type="text"]:focus {
-    box-shadow: 0 0 10px rgba(255, 0, 127, 0.5);
-}
