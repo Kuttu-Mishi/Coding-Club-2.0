@@ -1,9 +1,15 @@
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: cursive;
     font-palette: red;
     text-align: center;
 }
 
 body {
     background: radial-gradient(circle, #00F2FF, #FF007F);
+}
+
+h1 {
+    border-style: solid;
+    border-color: black;
+    border: 8px ;
 }
