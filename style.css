@@ -17,6 +17,6 @@ h1 {
 
 a {
     display: inline-block;
-    margin: 10px; /* Adds spacing */
-    text-align: center; /* Centers text under the image */
+    margin: 10px;
+    text-align: center;
 }
